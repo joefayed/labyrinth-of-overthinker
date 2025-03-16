@@ -39,7 +39,7 @@ const EndPage = () => {
           transition={{ delay: 1, duration: 1 }}
         >
           I just wanted to say thank you, thank you for showing me how to be happy, 
-          thank you for always keeping up with my bullshit w anxiety, You were never obligated to do that, yet you did. I know it's not ideal, and I'm genuinely trying to change this part of me because that's not who I normally am.
+          thank you for always keeping up with my bullshit w anxiety, You were never obligated to do that, yet you did. I know it's not ideal, and I'm genuinely trying to change this part of me because that's not who I normally am. w I know that's not an execuse for anything i did just an attempt to explain myself,
           anyway thank you for everything w Walahy walahy walahy I appreciate it w i know enty gety 3ala nafsek keter w 
           knowwing that bgd kills me, you will always be a teammate and a friend.
         </motion.p>
@@ -54,8 +54,8 @@ const EndPage = () => {
           i know my worth but i do know my flaws too w ego kills friendships, 
           ana fe3lan fe3lan mafesh fi dmaghy ay haga w afalt kol el hwarat elly fatet w msh bafkr feha 
           wala 7ata hatet ay hope "tab3an tab3an hope in rebena mawgod fi kol haga w ne3m bellah" bs enty 3arfa asdy eh :D, 
-          bel nesbaly ana fe3lan bat3amel k Yasmine zy lama kona abl ay haga w elly hwa rabena el shahed 3ala kalamy 
-          msh 3ayz ay haga f from my end mafesh ay 7asaseya bel 3aks this chapter is closed w ray7tny enaha et2flet aslun 
+          bel nesbaly ana fe3lan bat3amel k Yasmine zy lama kona abl ay haga w elly hwa rabena el shahed 3ala kalamy w lw msh mesd2any enty 3arfa eny k shakhs el hamdullah motadyn f elly hwa ana bel nesbaly fi hayaty kolaha mo2men en lw leya naseb fi haga khalas w lw malesh naseb fi haga bardo khalas talma 3amlt elly 3alya
+          f from my end mafesh ay 7asaseya bel 3aks this chapter is closed khsosan b3d kam haga keda w ray7ny eno et2fl aslun.
           msh 3ayzek enty bas yb2a feh ay 7asasseya mn ne7ytek w I don't want you to feel any awkwardness; I just want you to be comfortable.
         </motion.p>
         <motion.p
